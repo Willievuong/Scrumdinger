@@ -16,6 +16,7 @@
 		64BA3CA226ED6EB40094B183 /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BA3CA126ED6EB40094B183 /* Color+Codable.swift */; };
 		64BA3CA426ED7D060094B183 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BA3CA326ED7D060094B183 /* ScrumsView.swift */; };
 		64BA3CA626EDA47F0094B183 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BA3CA526EDA47F0094B183 /* DetailView.swift */; };
+		64BA3CA826EDD5390094B183 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BA3CA726EDD5390094B183 /* EditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		64BA3CA126ED6EB40094B183 /* Color+Codable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
 		64BA3CA326ED7D060094B183 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		64BA3CA526EDA47F0094B183 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		64BA3CA726EDD5390094B183 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				64BA3C9E26ED695A0094B183 /* CardView.swift */,
 				64BA3CA326ED7D060094B183 /* ScrumsView.swift */,
 				64BA3CA526EDA47F0094B183 /* DetailView.swift */,
+				64BA3CA726EDD5390094B183 /* EditView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			files = (
 				6441530626EC8F4F00EE6EEC /* MeetingView.swift in Sources */,
 				64BA3CA426ED7D060094B183 /* ScrumsView.swift in Sources */,
+				64BA3CA826EDD5390094B183 /* EditView.swift in Sources */,
 				64BA3C9B26ED683B0094B183 /* DailyScrum.swift in Sources */,
 				64BA3CA626EDA47F0094B183 /* DetailView.swift in Sources */,
 				64BA3C9F26ED695A0094B183 /* CardView.swift in Sources */,
