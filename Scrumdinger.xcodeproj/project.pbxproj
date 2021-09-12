@@ -14,6 +14,7 @@
 		64BA3C9B26ED683B0094B183 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BA3C9A26ED683B0094B183 /* DailyScrum.swift */; };
 		64BA3C9F26ED695A0094B183 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BA3C9E26ED695A0094B183 /* CardView.swift */; };
 		64BA3CA226ED6EB40094B183 /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BA3CA126ED6EB40094B183 /* Color+Codable.swift */; };
+		64BA3CA426ED7D060094B183 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BA3CA326ED7D060094B183 /* ScrumsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		64BA3C9A26ED683B0094B183 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		64BA3C9E26ED695A0094B183 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		64BA3CA126ED6EB40094B183 /* Color+Codable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
+		64BA3CA326ED7D060094B183 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				6441530C26EC8F5100EE6EEC /* Info.plist */,
 				6441530926EC8F5100EE6EEC /* Preview Content */,
 				64BA3C9E26ED695A0094B183 /* CardView.swift */,
+				64BA3CA326ED7D060094B183 /* ScrumsView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6441530626EC8F4F00EE6EEC /* MeetingView.swift in Sources */,
+				64BA3CA426ED7D060094B183 /* ScrumsView.swift in Sources */,
 				64BA3C9B26ED683B0094B183 /* DailyScrum.swift in Sources */,
 				64BA3C9F26ED695A0094B183 /* CardView.swift in Sources */,
 				64BA3CA226ED6EB40094B183 /* Color+Codable.swift in Sources */,
